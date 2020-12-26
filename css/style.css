@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo:ital@1&family=Open+Sans:wght@700&family=Raleway:wght@400;600;700&display=swap');
+body {
+    margin: 0;
+    font-family: Raleway, sans-serif;
+    font-size: 14px;
+    color: #6c7279;
+    background: #000;
+}
+*,
+*:after,
+*:before {
+    box-sizing: border-box;
+}
+/*Сontainer
+=================================*/
+.container{
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+/*Header
+================================ */
+.header{
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+.header__inner{
+    padding: 38px 0 40px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #4f5168;
+    align-items: center;
+}
+
+/*Nav
+========================================*/
+.nav {
+    display: flex;
+    font-weight: bold;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+.nav__link {
+    margin-left: 59px;
+    color: #fff;
+    text-decoration: none;
+    opacity: 0.75;
+    transition: opacity .2s linear;
+}
+.nav__link:hover {
+    opacity: 1;
+}
+.nav__link:first-child {
+    margin-left: 0;
+}
+
+/*intro
+=============================================*/
+.intro{
+    height: 750px;
+    background-image: url("../images/bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #2c2f49;
+
+}

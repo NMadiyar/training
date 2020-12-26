@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39a3da6b-9d8a-40d8-ad5a-7fdf2c703d8c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mBybu1AhEGEGFgoMvFTcuVFCf9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CSSGrid" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39a3da6b-9d8a-40d8-ad5a-7fdf2c703d8c" name="Default Changelist" comment="" />
+      <created>1608981353991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608981353991</updated>
+      <workItem from="1608981355150" duration="109000" />
+      <workItem from="1608981623567" duration="195000" />
+      <workItem from="1608982408078" duration="154000" />
+      <workItem from="1608982570489" duration="1632000" />
+      <workItem from="1608985841332" duration="9529000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="445" key="#Notifications" timestamp="1608981445326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="445" key="#Notifications/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1608981445326" />
+    <state x="565" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608982597682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="565" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1608982597682" />
+    <state x="891" y="314" key="FileChooserDialogImpl" timestamp="1608990329136">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="891" y="314" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1608990329136" />
+  </component>
+</project>
