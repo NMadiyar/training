@@ -133,3 +133,32 @@ p{
 .btn--red:hover {
     background-color: #ae2f2f;
 }
+
+/* Features
+=============================================*/
+.features {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 95px 0;
+}
+.features__item {
+    padding: 0 40px;
+    margin: 25px 0;
+    width: 33.33333%;
+    text-align: center;
+}
+.features__icon {
+    margin-bottom: 25px;
+}
+.feauters__title {
+    color: #2d3033;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+.features__text {
+    font-size: 14px;
+    color: #6c7279;
+    line-height: 1.5;
+}
