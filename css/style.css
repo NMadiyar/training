@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cardo:ital@1&family=Open+Sans:wght@700&family=Raleway:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cardo:ital@1&family=Open+Sans:wght@700&family=Raleway:wght@300;400;600;700&display=swap');
 body {
     margin: 0;
     font-family: Raleway, sans-serif;
@@ -122,6 +122,7 @@ p{
     border-radius: 2px;
     font-size: 13px;
     font-weight: 600;
+    text-align: center;
     text-transform: uppercase;
     color: #fff;
     text-decoration: none;
@@ -133,6 +134,9 @@ p{
 }
 .btn--red:hover {
     background-color: #ae2f2f;
+}
+.btn--long{
+    min-width: 280px;
 }
 
 /* Features
@@ -257,6 +261,9 @@ p{
 .social{
     display: flex;
 }
+.social--footer{
+    justify-content: center;
+}
 .social__item{
     display: flex;
     justify-content: center;
@@ -276,12 +283,23 @@ p{
 .social__item:hover .social__icon{
     fill: #000;
 }
-
+.social--footer .social__item{
+    background: transparent;
+    border-width: 2px;
+    border-color: #ffffff;
+    border-radius: 2px;
+}
+.social--footer .social__item:hover{
+    background-color: #ffffff;
+}
 .social__icon{
     display: block;
     height: 18px;
     fill: #c6cacc;
     transition: fill .1s linear;
+}
+.social--footer .social__icon{
+    fill: #ffffff;
 }
 
 
@@ -328,4 +346,75 @@ p{
     font-weight: bold;
     color: #fff;
     text-transform: uppercase;
+}
+
+/*Download
+========================================================*/
+.download{
+    margin: 90px 0;
+    text-align: center;
+}
+.download__title{
+    margin-bottom: 10px;
+    font-size: 28px;
+    color: #2d3033;
+    font-weight: 300;
+}
+.download__text{
+    margin-bottom: 30px;
+    font-size: 13px;
+    color: #2d3033;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+/*Footer
+==========================================================*/
+.footer{
+
+    background-color: #3a3e64;
+}
+.footer__inner{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 70px 0;
+}
+.footer__block{
+    padding: 0 15px;
+    width: 33.33333%;
+    text-align: center;
+}
+.footer__title{
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: 700;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+.footer__address{
+    font-size: 14px;
+    font-style: normal;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, .5);
+}
+
+.footer__text{
+    font-size: 14px;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, .5);
+}
+/*Copyright
+=================================================================*/
+.copyright{
+    padding: 20px 0;
+    background-color: #313454;
+}
+.copyright__text{
+    font-size: 14px;
+    text-align: center;
+    line-height: 1.5;
+    color: #808080;
+}
+.copyright__text span{
+    color: #ffffff;
 }
