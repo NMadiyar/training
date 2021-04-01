@@ -40,6 +40,18 @@ p{
     z-index: 1000;
 
 }
+
+.header.fixed{
+    height: auto;
+    position: fixed;
+    background-color: #2c2f49;
+    opacity: .7;
+}
+.header.fixed .header__inner{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 0;
+}
 .header__inner{
     padding: 35px 0 35px;
     display: flex;
