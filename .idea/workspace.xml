@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1mitnjmGa3GgjE9jQzQ2IQMrhjb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -15,6 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -27,10 +35,28 @@
       <updated>1609988408975</updated>
       <workItem from="1609988410477" duration="4105000" />
       <workItem from="1609992529169" duration="239000" />
+      <workItem from="1609993247349" duration="66000" />
+      <workItem from="1609993477411" duration="193000" />
+      <workItem from="1610093136171" duration="7689000" />
+      <workItem from="1610176753220" duration="5503000" />
+      <workItem from="1610432172783" duration="10001000" />
+      <workItem from="1610522385465" duration="5175000" />
+      <workItem from="1610615360040" duration="4849000" />
+      <workItem from="1611359444790" duration="623000" />
+      <workItem from="1614597639904" duration="4399000" />
+      <workItem from="1614772748854" duration="48000" />
+      <workItem from="1617260752694" duration="18000" />
+      <workItem from="1620515464335" duration="2294000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="676" y="322" key="FileChooserDialogImpl" timestamp="1614772791133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="676" y="322" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1614772791133" />
   </component>
 </project>
