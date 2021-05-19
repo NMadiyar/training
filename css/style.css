@@ -167,7 +167,7 @@ p{
 .features__icon {
     margin-bottom: 25px;
 }
-.feauters__title {
+.features__title {
     color: #2d3033;
     font-size: 14px;
     font-weight: 700;
@@ -481,7 +481,21 @@ p{
     /* Nav */
     .nav{
         display: none;
+        width: 100%;
+        text-align: right;
+        flex-direction: column;
+        background-color: #31344e;
+        position: absolute;
+        right: 0;
+        top: 100%;
     }
+    .nav__link{
+        padding: 9px 15px;
+    }
+    .nav.show{
+        display: flex;
+    }
+
     /* Burger */
     .burger{
         display: block;
@@ -506,7 +520,7 @@ p{
     .team__photo{
         margin-left: auto;
         margin-right: auto;
-    }
+    }w
     /*Social*/
     .social{
         justify-content: center;
